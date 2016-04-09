@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "debug": "github:typed-typings/npm-debug#0e398cb21de268744dd048a11461be5c13230bad"
+  },
+  "ambientDependencies": {
+    "bootstrap": "github:DefinitelyTyped/DefinitelyTyped/bootstrap/bootstrap.d.ts#4de74cb527395c13ba20b438c3a7a419ad931f1c",
+    "express": "github:DefinitelyTyped/DefinitelyTyped/express/express.d.ts#dd638012d63e069f2c99d06ef4dcc9616a943ee4",
+    "jquery": "github:DefinitelyTyped/DefinitelyTyped/jquery/jquery.d.ts#470954c4f427e0805a2d633636a7c6aa7170def8",
+    "lodash": "github:DefinitelyTyped/DefinitelyTyped/lodash/lodash-3.10.d.ts#86dbea8fc37d9473fee465da4f0a21bea4f8cbd9",
+    "mime": "github:DefinitelyTyped/DefinitelyTyped/mime/mime.d.ts#cb5206a8ac1c9a3ddfd126f5ecea6729b2361452",
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#48c1e3c1d6baefa4f1a126f188c27c4fefd36bff",
+    "react": "github:DefinitelyTyped/DefinitelyTyped/react/react.d.ts#744a89c4b12aa6537bcc39e7581d291dc74a4c3a",
+    "react-bootstrap": "github:DefinitelyTyped/DefinitelyTyped/react-bootstrap/react-bootstrap.d.ts#5f3b413653e738d5d9bfd1575d075e5334b5e564",
+    "react-dom": "github:DefinitelyTyped/DefinitelyTyped/react/react-dom.d.ts#744a89c4b12aa6537bcc39e7581d291dc74a4c3a",
+    "rx": "registry:dt/rx#0.0.0+20150720134954",
+    "rx-lite": "registry:dt/rx-lite#0.0.0+20151011190054",
+    "serve-static": "github:DefinitelyTyped/DefinitelyTyped/serve-static/serve-static.d.ts#0fa4e9e61385646ea6a4cba2aef357353d2ce77f",
+    "whatwg-fetch": "registry:dt/whatwg-fetch#0.0.0+20160226102134"
+  }
+}
